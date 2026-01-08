@@ -34,9 +34,8 @@ It is built **only for educational and practice purposes**.
 - Build confidence in UI cloning projects
 
 ---
-
-
-
+▶️ [Click here to watch the demo video](video.mp4)
+---
 
 ## 🌱 Future Improvements
 - Add JavaScript for interactivity
