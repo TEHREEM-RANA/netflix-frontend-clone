@@ -37,7 +37,7 @@ It is built **only for educational and practice purposes**.
 
 ## 🌐 Live Demo
 Check out the live version here:  
-🔗 https://tehreem-rana.github.io/netflix-frontend-clone/
+🔗 (https://tehreem-rana.github.io/netflix-frontend-clone/)
 
 ---
 
