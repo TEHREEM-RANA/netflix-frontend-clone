@@ -1,7 +1,6 @@
 # 🎬 Netflix Frontend Clone (Practice Project)
 
-🔗 Live Preview:  
-👉 https://tehreem-rana.github.io/netflix-frontend-clone/
+
 
 This is a **Netflix Frontend Clone** created for **practice and learning purposes**.  
 The project focuses purely on **UI design using HTML and CSS**.
